@@ -4,6 +4,7 @@
 // Created by Bodmer 09/04/2020
 // Updated by Bodmer 08/01/2021
 // Updated by Bodmer 15/02/2023 to support free forecast API
+// Updated by MatsK  2024-09-26 to OpenWeatheMap API ver 3.0
 
 // See license.txt in root folder of library
 // Insecure mode added by ADAMSIN12
